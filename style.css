@@ -1,0 +1,25 @@
+body {
+   background: cover; 
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    font-size: 500px;;
+}
+.copy_right_footer {
+font-size: 23px;
+color: yellow;
+background-color: purple;
+position: fixed;
+width: 100%;
+line-height: 3;
+bottom: 0;
+text-align: left;
+border-radius: 20px;
+}
+canvas{
+    border:10px solid purple ;
+    border-radius: 20px;
+    box-shadow:5px,5px,5px palevioletred;
+    
+}
